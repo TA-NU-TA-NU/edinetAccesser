@@ -1,0 +1,2 @@
+# edinetAccesser
+EDINETAPIに触れるためのPowerShell
